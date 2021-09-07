@@ -1,0 +1,9145 @@
+{
+  "notes": [
+    {
+      "number": 13,
+      "name": "C#-1",
+      "key_off": false,
+      "alt_group": 3
+    },
+    {
+      "number": 14,
+      "name": "D-1",
+      "key_off": false,
+      "alt_group": 3
+    },
+    {
+      "number": 15,
+      "name": "D#-1",
+      "key_off": false
+    },
+    {
+      "number": 16,
+      "name": "E-1",
+      "key_off": false
+    },
+    {
+      "number": 17,
+      "name": "F-1",
+      "key_off": false,
+      "alt_group": 4
+    },
+    {
+      "number": 18,
+      "name": "F#-1",
+      "key_off": false,
+      "alt_group": 4
+    },
+    {
+      "number": 19,
+      "name": "G-1",
+      "key_off": false
+    },
+    {
+      "number": 20,
+      "name": "G#-1",
+      "key_off": false
+    },
+    {
+      "number": 21,
+      "name": "A-1",
+      "key_off": false
+    },
+    {
+      "number": 22,
+      "name": "A#-1",
+      "key_off": false
+    },
+    {
+      "number": 23,
+      "name": "B-1",
+      "key_off": false
+    },
+    {
+      "number": 24,
+      "name": "C0",
+      "key_off": false
+    },
+    {
+      "number": 25,
+      "name": "C#0",
+      "key_off": false
+    },
+    {
+      "number": 26,
+      "name": "D0",
+      "key_off": true
+    },
+    {
+      "number": 27,
+      "name": "D#0",
+      "key_off": false
+    },
+    {
+      "number": 28,
+      "name": "E0",
+      "key_off": true
+    },
+    {
+      "number": 29,
+      "name": "F0",
+      "key_off": true
+    },
+    {
+      "number": 30,
+      "name": "F#0",
+      "key_off": false
+    },
+    {
+      "number": 31,
+      "name": "G0",
+      "key_off": false
+    },
+    {
+      "number": 32,
+      "name": "G#0",
+      "key_off": false
+    },
+    {
+      "number": 33,
+      "name": "A0",
+      "key_off": false
+    },
+    {
+      "number": 34,
+      "name": "A#0",
+      "key_off": false
+    },
+    {
+      "number": 35,
+      "name": "B0",
+      "key_off": false
+    },
+    {
+      "number": 36,
+      "name": "C1",
+      "key_off": false
+    },
+    {
+      "number": 37,
+      "name": "C#1",
+      "key_off": false
+    },
+    {
+      "number": 38,
+      "name": "D1",
+      "key_off": false
+    },
+    {
+      "number": 39,
+      "name": "D#1",
+      "key_off": false
+    },
+    {
+      "number": 40,
+      "name": "E1",
+      "key_off": false
+    },
+    {
+      "number": 41,
+      "name": "F1",
+      "key_off": false
+    },
+    {
+      "number": 42,
+      "name": "F#1",
+      "key_off": false,
+      "alt_group": 1
+    },
+    {
+      "number": 43,
+      "name": "G1",
+      "key_off": false
+    },
+    {
+      "number": 44,
+      "name": "G#1",
+      "key_off": false,
+      "alt_group": 1
+    },
+    {
+      "number": 45,
+      "name": "A1",
+      "key_off": false
+    },
+    {
+      "number": 46,
+      "name": "A#1",
+      "key_off": false,
+      "alt_group": 1
+    },
+    {
+      "number": 47,
+      "name": "B1",
+      "key_off": false
+    },
+    {
+      "number": 48,
+      "name": "C2",
+      "key_off": false
+    },
+    {
+      "number": 49,
+      "name": "C#2",
+      "key_off": false
+    },
+    {
+      "number": 50,
+      "name": "D2",
+      "key_off": false
+    },
+    {
+      "number": 51,
+      "name": "D#2",
+      "key_off": false
+    },
+    {
+      "number": 52,
+      "name": "E2",
+      "key_off": false
+    },
+    {
+      "number": 53,
+      "name": "F2",
+      "key_off": false
+    },
+    {
+      "number": 54,
+      "name": "F#2",
+      "key_off": false
+    },
+    {
+      "number": 55,
+      "name": "G2",
+      "key_off": false
+    },
+    {
+      "number": 56,
+      "name": "G#2",
+      "key_off": false
+    },
+    {
+      "number": 57,
+      "name": "A2",
+      "key_off": false
+    },
+    {
+      "number": 58,
+      "name": "A#2",
+      "key_off": false
+    },
+    {
+      "number": 59,
+      "name": "B2",
+      "key_off": false
+    },
+    {
+      "number": 60,
+      "name": "C3",
+      "key_off": false
+    },
+    {
+      "number": 61,
+      "name": "C#3",
+      "key_off": false
+    },
+    {
+      "number": 62,
+      "name": "D3",
+      "key_off": false
+    },
+    {
+      "number": 63,
+      "name": "D#3",
+      "key_off": false
+    },
+    {
+      "number": 64,
+      "name": "E3",
+      "key_off": false
+    },
+    {
+      "number": 65,
+      "name": "F3",
+      "key_off": false
+    },
+    {
+      "number": 66,
+      "name": "F#3",
+      "key_off": false
+    },
+    {
+      "number": 67,
+      "name": "G3",
+      "key_off": false
+    },
+    {
+      "number": 68,
+      "name": "G#3",
+      "key_off": false
+    },
+    {
+      "number": 69,
+      "name": "A3",
+      "key_off": false
+    },
+    {
+      "number": 70,
+      "name": "A#3",
+      "key_off": false
+    },
+    {
+      "number": 71,
+      "name": "B3",
+      "key_off": true
+    },
+    {
+      "number": 72,
+      "name": "C4",
+      "key_off": true
+    },
+    {
+      "number": 73,
+      "name": "C#4",
+      "key_off": false
+    },
+    {
+      "number": 74,
+      "name": "D4",
+      "key_off": true
+    },
+    {
+      "number": 75,
+      "name": "D#4",
+      "key_off": false
+    },
+    {
+      "number": 76,
+      "name": "E4",
+      "key_off": false
+    },
+    {
+      "number": 77,
+      "name": "F4",
+      "key_off": false
+    },
+    {
+      "number": 78,
+      "name": "F#4",
+      "key_off": false
+    },
+    {
+      "number": 79,
+      "name": "G4",
+      "key_off": false
+    },
+    {
+      "number": 80,
+      "name": "G#4",
+      "key_off": false,
+      "alt_group": 2
+    },
+    {
+      "number": 81,
+      "name": "A4",
+      "key_off": false,
+      "alt_group": 2
+    },
+    {
+      "number": 82,
+      "name": "A#4",
+      "key_off": false
+    },
+    {
+      "number": 83,
+      "name": "B4",
+      "key_off": false
+    },
+    {
+      "number": 84,
+      "name": "C5",
+      "key_off": false
+    },
+    {
+      "number": 85,
+      "name": "C#5",
+      "key_off": false
+    },
+    {
+      "number": 86,
+      "name": "D5",
+      "key_off": false
+    },
+    {
+      "number": 87,
+      "name": "D#5",
+      "key_off": false
+    },
+    {
+      "number": 88,
+      "name": "E5",
+      "key_off": false
+    },
+    {
+      "number": 89,
+      "name": "F5",
+      "key_off": false
+    },
+    {
+      "number": 90,
+      "name": "F#5",
+      "key_off": false
+    },
+    {
+      "number": 91,
+      "name": "G5",
+      "key_off": false
+    }
+  ],
+  "drum_kits": [
+    {
+      "name": "StandKit MU Basic",
+      "msb": 127,
+      "lsb": 0,
+      "program": 1,
+      "notes": [
+        {
+          "name": "Surdo Mute",
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open",
+          "elements": 1
+        },
+        {
+          "name": "Hi Q",
+          "elements": 1
+        },
+        {
+          "name": "Whip Slap",
+          "elements": 1
+        },
+        {
+          "name": "Scratch H",
+          "elements": 1
+        },
+        {
+          "name": "Scratch L",
+          "elements": 1
+        },
+        {
+          "name": "Finger Snap",
+          "elements": 1
+        },
+        {
+          "name": "Click Noise",
+          "elements": 1
+        },
+        {
+          "name": "Metronome Click",
+          "elements": 1
+        },
+        {
+          "name": "Metronome Bell",
+          "elements": 1
+        },
+        {
+          "name": "Seq Click L",
+          "elements": 1
+        },
+        {
+          "name": "Seq Click H",
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap",
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl",
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap",
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl",
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll",
+          "elements": 1
+        },
+        {
+          "name": "Castanet",
+          "elements": 1
+        },
+        {
+          "name": "Snare Soft",
+          "elements": 1
+        },
+        {
+          "name": "Sticks",
+          "elements": 1
+        },
+        {
+          "name": "Kick Soft",
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot",
+          "elements": 1
+        },
+        {
+          "name": "Kick Tight",
+          "elements": 1
+        },
+        {
+          "name": "Kick",
+          "elements": 1
+        },
+        {
+          "name": "Side Stick",
+          "elements": 1
+        },
+        {
+          "name": "Snare",
+          "elements": 1
+        },
+        {
+          "name": "Hand Clap",
+          "elements": 1
+        },
+        {
+          "name": "Snare Tight",
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L",
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed",
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom H",
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal",
+          "elements": 1
+        },
+        {
+          "name": "Low Tom",
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open",
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom L",
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H",
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 1",
+          "elements": 1
+        },
+        {
+          "name": "High Tom",
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1",
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal",
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup",
+          "elements": 1
+        },
+        {
+          "name": "Tambourine",
+          "elements": 1
+        },
+        {
+          "name": "Splash Cymbal",
+          "elements": 1
+        },
+        {
+          "name": "Cowbell",
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2",
+          "elements": 1
+        },
+        {
+          "name": "Vibraslap",
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 2",
+          "elements": 1
+        },
+        {
+          "name": "Bongo H",
+          "elements": 1
+        },
+        {
+          "name": "Bongo L",
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute",
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open",
+          "elements": 1
+        },
+        {
+          "name": "Conga L",
+          "elements": 1
+        },
+        {
+          "name": "Timbale H",
+          "elements": 1
+        },
+        {
+          "name": "Timbale L",
+          "elements": 1
+        },
+        {
+          "name": "Agogo H",
+          "elements": 1
+        },
+        {
+          "name": "Agogo L",
+          "elements": 1
+        },
+        {
+          "name": "Cabasa",
+          "elements": 1
+        },
+        {
+          "name": "Maracas",
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H",
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L",
+          "elements": 1
+        },
+        {
+          "name": "Guiro Short",
+          "elements": 1
+        },
+        {
+          "name": "Guiro Long",
+          "elements": 1
+        },
+        {
+          "name": "Claves",
+          "elements": 1
+        },
+        {
+          "name": "Wood Block H",
+          "elements": 1
+        },
+        {
+          "name": "Wood Block L",
+          "elements": 1
+        },
+        {
+          "name": "Cuica Mute",
+          "elements": 1
+        },
+        {
+          "name": "Cuica Open",
+          "elements": 1
+        },
+        {
+          "name": "Triangle Mute",
+          "elements": 1
+        },
+        {
+          "name": "Triangle Open",
+          "elements": 1
+        },
+        {
+          "name": "Shaker",
+          "elements": 1
+        },
+        {
+          "name": "Jingle Bells",
+          "elements": 1
+        },
+        {
+          "name": "Bell Tree",
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "StandKit MU100 Native",
+      "extension": 3,
+      "msb": 127,
+      "lsb": 0,
+      "program": 1,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Castanet#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Soft#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Open Rim Shot#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Side Stick#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Tight#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi-Hat Closed#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi-Hat Pedal#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi-Hat Open#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Crash Cymbal 1#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 1#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Cowbell#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Conga H Mute#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga L#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "StndKit2",
+      "msb": 127,
+      "lsb": 0,
+      "program": 2,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Snare Roll 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Soft 2",
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Open Rim Shot H Short",
+          "elements": 1
+        },
+        {
+          "name": "Kick Tight Short",
+          "elements": 1
+        },
+        {
+          "name": "Kick Short",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Short",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Tight H",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Dry Kit",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 3,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Dry Soft",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Dry Soft",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot Dry V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Dry Tight",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Dry Mute",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Dry",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Dry",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Dry Mute",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Floor Tom H Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Low Tom Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Mid Tom L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Crash Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cuica Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "BriteKit",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 4,
+      "notes": [
+        {
+          "name": "Surdo Mute B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi Q B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Whip Slap B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Scratch H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Scratch L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Finger Snap B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Click Noise B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Metronome Click B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Metronome Bell B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Seq Click L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Seq Click H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Castanet B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Soft B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Sticks B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Soft B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Tight B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hand Clap B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Tight B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 1 B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "High Tom B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tambourine B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Splash Cymbal B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Vibraslap B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 2 B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cabasa B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Maracas B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Guiro Short B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Guiro Long B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Claves B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Wood Block H B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Wood Block L B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cuica Mute B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cuica Open B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Triangle Mute B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Triangle Open B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Shaker B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Jingle Bells B",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bell Tree B",
+          "extension": 2,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Skim Kit",
+      "extension": 3,
+      "msb": 127,
+      "lsb": 0,
+      "program": 5,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Castanet Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Dry Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Dry Soft HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot Dry HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Dry Tight Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Dry Mute HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Dry Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Dry H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hand Clap Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Dry Mute Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L Short Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom H Short Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Short Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom L Short Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H Short Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 1 Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Short Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 Sk",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cup Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tambourine Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Splash Cymbal H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga L HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cabasa BPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Maracas L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H BPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L BPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Open H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Slim Kit",
+      "extension": 3,
+      "msb": 127,
+      "lsb": 0,
+      "program": 6,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Castanet H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Rough Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Sticks Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Soft Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot Sl",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Tight Short L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Short Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Short HPF",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hand Clap Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Tight Mute",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed L Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom H Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom L Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 1 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup L",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Splash Cymbal L Short",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Open H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "RogueKit",
+      "extension": 3,
+      "msb": 127,
+      "lsb": 0,
+      "program": 7,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Castanet H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Brass Soft",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Soft 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Dark 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Tight 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Snappy Short",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Brass Hard",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom H Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom L Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Tight",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell Mid",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 4 Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga L 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Open H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Hob Kit",
+      "extension": 3,
+      "msb": 127,
+      "lsb": 0,
+      "program": 8,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Castanet H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Brass Soft H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Soft 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot H Short 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Dark 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Tight 4 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Tight H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Snappy Short H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Brass Hard H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L Tight H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed 3 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom H Tight H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal 3 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Tight H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 3 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom L Tight H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H Tight H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 3 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Tight H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 3 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tambourine H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Splash Cymbal H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 4 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga L 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Open H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Room Kit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 9,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Kick Room",
+          "extension": 1,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Snappy",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Tight Snappy",
+          "elements": 1
+        },
+        {
+          "name": "Tom Room 1",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Room 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Room 3",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Room 4",
+          "elements": 1
+        },
+        {
+          "name": "Tom Room 5",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Room 6",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "DarkRKi t",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 10,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Kick Dark",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Room Gate",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Snappy 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Tight Snappy",
+          "elements": 1
+        },
+        {
+          "name": "Tom Room 1 Q",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Q",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Room Tom 2 Q",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal Q",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Room Tom 3 Q",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Room 4 Dark",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Room 5 L Dark",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Room 6 L Dark",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Crash Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cuica Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Rock Kit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 17,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Snare Noisy",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Tight 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick 2",
+          "elements": 1
+        },
+        {
+          "name": "Kick Gate",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Rock",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Rock Rim",
+          "elements": 1
+        },
+        {
+          "name": "Tom Rock 1",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Rock 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Rock 3",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Rock 4",
+          "elements": 1
+        },
+        {
+          "name": "Tom Rock 5",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Rock 6",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "RockKit2",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 18,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Noisy 5",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Tight 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick 4",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Gate 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Rock 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Rock Rim Q",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Rock 1 H",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Rock 2 H",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Rock 3 L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Rock 4 L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Rock 5 L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Rock 6 L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Crash Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cuica Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "ElctrKit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 25,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Reverse Cymbal",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi Q 2",
+          "elements": 1
+        },
+        {
+          "name": "Snare Snappy Electro",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick 3",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Gate",
+          "elements": 1
+        },
+        {
+          "name": "Kick Gate Heavy",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Noisy 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Noisy 3",
+          "elements": 1
+        },
+        {
+          "name": "Tom Electro 1",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Electro 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Electro 3",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Electro 4",
+          "elements": 1
+        },
+        {
+          "name": "Tom Electro 5",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Electro 6",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Scratch H 2",
+          "elements": 1
+        },
+        {
+          "name": "Scratch L 2",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "AnalgKit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 26,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Reverse Cymbal",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi Q 2",
+          "elements": 1
+        },
+        {
+          "name": "Snare Noisy 4",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Tight 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Analog Short",
+          "elements": 1
+        },
+        {
+          "name": "Kick Analog",
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Analog",
+          "elements": 1
+        },
+        {
+          "name": "Snare Analog",
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Snare Analog 2",
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 1",
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog",
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 2",
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog",
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 3",
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open Analog",
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 4",
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 5",
+          "elements": 1
+        },
+        {
+          "name": "Crash Analog",
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 6",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cowbell Analog",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Conga Analog H",
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog M",
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog L",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Maracas 2",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Claves 2",
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Scratch H 2",
+          "elements": 1
+        },
+        {
+          "name": "Scratch L 3",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "AnlgKit2",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 27,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Reverse Cymbal",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi Q 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Analog 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Techno Soft",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot Dry V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno Tight",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Analog",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Techno",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Techno 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 1",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open Analog 1",
+          "elements": null
+        },
+        {
+          "name": "Tom Analog 4",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 5",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Analog",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 6",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell Analog",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog H",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog M",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Claves 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Scratch H 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Scratch L 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "DanceKit",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 28,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Reverse Cymbal",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi Q 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Techno 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Techno Q",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Rim Gate",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Analog",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Clap",
+          "extension": 2,
+          "elements": 2
+        },
+        {},
+        {
+          "name": "Snare Dry 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 1",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 4",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 5",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Analog",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 6",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cowbell Analog",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Conga Analog H",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog M",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog L",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Maracas 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Claves 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Scratch H 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Scratch L 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "HipHpKit",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 29,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Open Rim Shot 2 Soft",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Dry Soft 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Dim",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Boon",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Dry",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Dry Mute",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare White",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed 2 H",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom H Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal 2 H",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 2 L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Crash Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cuica Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "JunglKit",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 30,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Rim Gate 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Cough",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Rim Gate 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Zap",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Kick Dawn",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Dry",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Tin",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Can",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed 2 Soft",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom H Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal 2 Soft",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 2 Soft",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom L Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom H Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Short",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Crash Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cuica Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "ApogeeKt",
+      "extension": 2,
+      "msb": 127,
+      "lsb": 0,
+      "program": 31,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Reverse Cymbal",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi Q 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Analog 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Techno 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno Tight 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Analog 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Analog 5",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Clap Ambience",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Analog 6",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open Analog 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 5",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Analog",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 6",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Analog 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal Cup Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell Analog L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal Analog 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog H Long",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog M Long",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog L Long",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Claves 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Scratch H 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Scratch L 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "PergeeKt",
+      "msb": 127,
+      "lsb": 0,
+      "program": 32,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Reverse Cymbal",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi Q 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Analog 4 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Techno 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno 4 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno Tight 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Analog 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Analog 5 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Clap Ambience H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Analog 6 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 1 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog 3 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog 4 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 3 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open Analog 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 4 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 5 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Analog H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Techno 6 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Analog 1 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tambourine H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Splash Cymbal H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell Analog H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal Analog 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog H Long H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog M Long H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog L Long H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Claves 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Scratch H 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Scratch L 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Jazz Kit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 33,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Kick Jazz",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Tom Jazz 1",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Jazz 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Jazz 3",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Jazz 4",
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 5",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Jazz 6",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "JazzKit2",
+      "msb": 127,
+      "lsb": 0,
+      "program": 34,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Kick Jazz L",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare H",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Tight L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 7",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 8",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 9",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 10",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 11",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Jazz 12",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup L",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Crash Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cuica Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "BrushKit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 41,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Slap 2",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Kick Small",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Brush Slap 3",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Brush Tap 2",
+          "elements": 1
+        },
+        {
+          "name": "Tom Brush 1",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Brush 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Brush 3",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Brush 4",
+          "elements": 1
+        },
+        {
+          "name": "Tom Brush 5",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Brush 6",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "BrshKit2",
+      "msb": 127,
+      "lsb": 0,
+      "program": 42,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap Swirl L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Castanet H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Dry Hard",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Release",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot Dry L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Cloudy H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Cloudy L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick B 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap 3 Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Brush Snare Loud",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Brush 7",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Brush 8",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Brush 9",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Brush 10",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Brush 11",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Brush 12",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal Cup 6",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Splash Cymbal V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Ride Cymbal 6",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Maracas Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Open H",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "SymphKit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 49,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Kick Soft 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Gran Cassa",
+          "elements": 1
+        },
+        {
+          "name": "Gran Cassa Mute",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Band Snare",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Band Snare 2",
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 1",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Jazz 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Jazz 3",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Tom Jazz 4",
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 5",
+          "elements": 1
+        },
+        {
+          "name": "Hand Cymbal",
+          "elements": 1
+        },
+        {
+          "name": "Tom Jazz 6",
+          "elements": 1
+        },
+        {
+          "name": "Hand Cymbal Short",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Hand Cymbal 2",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hand Cymbal 2 Short",
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Ntrl Kit",
+      "extension": 5,
+      "msb": 127,
+      "lsb": 0,
+      "program": 57,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "BrshSwrlNt L",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "BrushSlap Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "BrshSwrlNt H",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "SnareRoll Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Nt L",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Soft Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "KickLight Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Kick Std Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "SideStick Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Snare Nt M",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Nt H",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "FloorTomNt L",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "HiHatCloseNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "FloorTomNt H",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "HiHatPedalNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "HiHatOpenNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom Nt L",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom Nt H",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "CrashCymNt 1",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "RideCym Nt 1",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "ChineseCymNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "RideCymCupNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "SplashCym Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "CrashCymNt 2",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "RideCym Nt 2",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "NtFunkKt",
+      "extension": 5,
+      "msb": 127,
+      "lsb": 0,
+      "program": 58,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "BrshSwrlNt L",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "BrushSlap Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "BrshSwrlNt H",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "SnareRoll Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare NtF L",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Kick Soft Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Kick Std NtF",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Kick NtF",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "SideStick Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Snare NtF M",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare NtF H",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "FloorTomNt L",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "HiHatCloseNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "FloorTomNt H",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "HiHatPedalNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "HiHatOpenNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom Nt L",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom Nt H",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "CrashCymNt 1",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "RideCym Nt 1",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "ChineseCymNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {
+          "name": "RideCymCupNt",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "SplashCym Nt",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "CrashCymNt 2",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "RideCym Nt 2",
+          "extension": 5,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "TrampKit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 65,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Reverse Cymbal",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hi Q 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Techno 3 Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Sticks Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno Q 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Rim Gate Lo-Fi",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno L Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Techno 2 Gate",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Analog Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Clap",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Hand Clap Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Dry 2 Gate",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 7",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed 3 Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 8",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Analog 2 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 9",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 3 Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 10",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 11",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Analog Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tom Analog 12",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tambourine Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Splash Cymbal L Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell Analog Q",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 D",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog H Long",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog M Long",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga Analog L Long",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Scratch H 2",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Scratch L 3",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "AmberKit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 66,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Open Rim Shot 3 Soft",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Sticks Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "KickDrySoft3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Open Rim Shot Dry",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Comp 1 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Comp 1 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Dry L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Dry Mute L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hand Clap Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hip Snare Long",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom Tech L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Tech",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom Tech H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal Tech",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Tech",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 3 Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom Tech L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom Tech H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Tech",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal 1 Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal H2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup Dark",
+          "elements": 1
+        },
+        {
+          "name": "Tambourine Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Splash Cymbal L Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell Lo-Fi",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2 V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Open H",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "CofﬁnKt",
+      "msb": 127,
+      "lsb": 0,
+      "program": 67,
+      "notes": [
+        {
+          "name": "Surdo Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Brush Tap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Swirl V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Slap V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Brush Tap Swirl L",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Snare Roll V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Rim Gate 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Sticks Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Cough L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Rim Gate 5",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Comp 2 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Kick Comp 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Side Stick Dry L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Tin L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hand Clap Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Can L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom Tech L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Closed Tech",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Floor Tom Tech H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Pedal Tech",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Low Tom Tech",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi-Hat Open 3 Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom Tech L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Mid Tom Tech H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal Dark 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "High Tom Tech",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Hard 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cymbal Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal Cup 5",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tambourine Dark",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tech Splash Cymbal",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cowbell Lo-Fi",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal 2 Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 5",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bongo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Bongo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Mute V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Conga L 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Timbale L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Agogo L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Maracas Q",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle H V",
+          "extension": 2,
+          "elements": 1
+        },
+        {
+          "name": "Samba Whistle L V",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Cuica Open H",
+          "extension": 2,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "StndKit#",
+      "msb": 127,
+      "lsb": 0,
+      "program": 127,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "name": "Castanet#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare Soft#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Open Rim Shot#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Side Stick#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Snare#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Snare Tight#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi-Hat Closed#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi-Hat Pedal#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Hi-Hat Open#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Crash Cymbal",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 1#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chinese Cym-",
+          "elements": 1
+        },
+        {
+          "name": "Ride Cymbal",
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Cowbell#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Crash Cymbal",
+          "elements": 1
+        },
+        {},
+        {
+          "name": "Ride Cymbal 2#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {
+          "name": "Conga H Mute#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga H Open#",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Conga L#",
+          "extension": 3,
+          "elements": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "StandKit",
+      "msb": 127,
+      "lsb": 0,
+      "program": 128,
+      "notes": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "SFX Kit 1",
+      "msb": 126,
+      "lsb": 0,
+      "program": 1,
+      "notes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Insects",
+          "extension": 3,
+          "elements": 2
+        },
+        {
+          "name": "Bacteria",
+          "extension": 3,
+          "elements": 2
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Cutting Noise",
+          "elements": 1
+        },
+        {
+          "name": "Cutting Noise 2",
+          "elements": 2
+        },
+        {
+          "name": "Distorted Cutting Noise",
+          "extension": 1,
+          "elements": 2
+        },
+        {
+          "name": "String Slap",
+          "elements": 1
+        },
+        {
+          "name": "Bass Slide",
+          "extension": 1,
+          "elements": 2
+        },
+        {
+          "name": "Pick Scrape",
+          "extension": 1,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Flute Key Click",
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Shower",
+          "elements": 2
+        },
+        {
+          "name": "Thunder",
+          "elements": 1
+        },
+        {
+          "name": "Wind",
+          "elements": 1
+        },
+        {
+          "name": "Stream",
+          "elements": 2
+        },
+        {
+          "name": "Bubble",
+          "elements": 2
+        },
+        {
+          "name": "Feed",
+          "extension": 1,
+          "elements": 2
+        },
+        {
+          "name": "Cave",
+          "extension": 3,
+          "elements": 2
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Dog",
+          "elements": 1
+        },
+        {
+          "name": "Horse",
+          "elements": 1
+        },
+        {
+          "name": "Bird Tweet 2",
+          "elements": 1
+        },
+        {
+          "name": "Kitty",
+          "extension": 1,
+          "elements": 1
+        },
+        {
+          "name": "Growl",
+          "extension": 1,
+          "elements": 1
+        },
+        {
+          "name": "Haunted",
+          "extension": 1,
+          "elements": 2
+        },
+        {
+          "name": "Ghost",
+          "elements": 2
+        },
+        {
+          "name": "Maou",
+          "extension": 1,
+          "elements": 2
+        }
+      ]
+    },
+    {
+      "name": "SFX Kit 2",
+      "msb": 126,
+      "lsb": 0,
+      "program": 2,
+      "notes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Phone Call",
+          "extension": 1,
+          "elements": 1
+        },
+        {
+          "name": "Door Squeak",
+          "elements": 1
+        },
+        {
+          "name": "Door Slam",
+          "elements": 1
+        },
+        {
+          "name": "Scratch Cut",
+          "elements": 1
+        },
+        {
+          "name": "Scratch H 3",
+          "elements": 2
+        },
+        {
+          "name": "Wind Chime",
+          "elements": 1
+        },
+        {
+          "name": "Telephone Ring 2",
+          "elements": 1
+        },
+        {
+          "name": "Anthr",
+          "extension": 5,
+          "elements": 2
+        },
+        {
+          "name": "Turn Table",
+          "extension": 5,
+          "elements": 4
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Car Engine Ignition",
+          "elements": 1
+        },
+        {
+          "name": "Car Tires Squeal",
+          "elements": 1
+        },
+        {
+          "name": "Car Passing",
+          "elements": 1
+        },
+        {
+          "name": "Car Crash",
+          "elements": 1
+        },
+        {
+          "name": "Siren",
+          "elements": 2
+        },
+        {
+          "name": "Train",
+          "elements": 1
+        },
+        {
+          "name": "Jet Plane",
+          "elements": 2
+        },
+        {
+          "name": "Starship",
+          "elements": 2
+        },
+        {
+          "name": "Burst",
+          "elements": 2
+        },
+        {
+          "name": "Roller Coaster",
+          "elements": 2
+        },
+        {
+          "name": "Submarine",
+          "elements": 2
+        },
+        {
+          "name": "Connectivity",
+          "extension": 3,
+          "elements": 2
+        },
+        {
+          "name": "Mystery",
+          "extension": 3,
+          "elements": 2
+        },
+        {
+          "name": "Charging",
+          "extension": 5,
+          "elements": 3
+        },
+        null,
+        null,
+        {
+          "name": "Laugh",
+          "elements": 1
+        },
+        {
+          "name": "Scream",
+          "elements": 1
+        },
+        {
+          "name": "Punch",
+          "elements": 1
+        },
+        {
+          "name": "Heart Beat",
+          "elements": 1
+        },
+        {
+          "name": "Foot Steps",
+          "elements": 1
+        },
+        {
+          "name": "Applause 2",
+          "extension": 1,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Machine Gun",
+          "elements": 1
+        },
+        {
+          "name": "Laser Gun",
+          "elements": 2
+        },
+        {
+          "name": "Explosion",
+          "elements": 2
+        },
+        {
+          "name": "Firework",
+          "elements": 2
+        },
+        {
+          "name": "Fireball",
+          "extension": 3,
+          "elements": 2
+        },
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Techno Kit K/S",
+      "extension": 3,
+      "msb": 126,
+      "lsb": 0,
+      "program": 17,
+      "notes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Heavy Techno Kick 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Heavy Techno Kick 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Psychedelic Kick",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Gate Tekno Kick",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Rap Kick",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Heavy Techno Kick 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Heavy Techno Kick 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Future Kick",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Asian Kick",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Imbalance Kick",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Justice Kick",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Minimal Kick",
+          "extension": 3,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Radio Snare",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cold Dry Snare 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Slap Snare",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cold Dry Snare 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Cold Dry Snare 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Lo-Fi Metal Snare",
+          "extension": 3,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Hi Pitch Slap H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hi Pitch Slap L",
+          "extension": 3,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Techno Kit Hi",
+      "extension": 3,
+      "msb": 126,
+      "lsb": 0,
+      "program": 18,
+      "notes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Hyper Tom H 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Asian Tom H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Lo-Fi Tom H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hyper Tom H 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Flanged Tom H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Minimal Tom H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Vox Drum H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Android Walk 1 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Android Walk 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Electro Blip H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Wood Percussions H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Wood Door Open H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Reso Noise Burst H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "LFO Metal Attack H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Steel Conga H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Rate Down Snare H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Pop Ambient H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tunnel Ambient H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Vibraslap H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Gun Shot Slap H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Punch Snare H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bomb Snare H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Space Tambourine H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ambient Cow Bell H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chink Hat H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Coal Mine 1 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Coal Mine 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hammer Hit 1 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hammer Hit 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hammer Hit 3 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Insensible Hah H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Robot 1 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Insensible Fuh H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Robot 2 H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Rude Loop Cymbal H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Noise Burst H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Fizzer H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Lo-Fi Shaker H",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Temple Gong H",
+          "extension": 3,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Techno Kit Lo",
+      "extension": 3,
+      "msb": 126,
+      "lsb": 0,
+      "program": 19,
+      "notes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Hyper Tom L 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Asian Tom L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Lo-Fi Tom L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hyper Tom L 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Flanged Tom L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Minimal Tom L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Vox Drum L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Android Walk 1 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Android Walk 2 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Electro Blip L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Wood Percussions L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Wood Door Open L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Reso Noise Burst L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "LFO Metal Attack L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Steel Conga L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Rate Down Snare L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Pop Ambient L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tunnel Ambient L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Vibraslap L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Gun Shot Slap L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Punch Snare L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Bomb Snare L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Space Tambourine L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ambient Cow Bell L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Chink Hat L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Coal Mine 1 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Coal Mine 2 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hammer Hit 1 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hammer Hit 2 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Hammer Hit 3 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Insensible Hah L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Robot 1 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Insensible Fuh L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Robot 2 L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Rude Loop Cymbal L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Noise Burst L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Fizzer L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Lo-Fi Shaker L",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Temple Gong L",
+          "extension": 3,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Sakura Kit",
+      "extension": 3,
+      "msb": 126,
+      "lsb": 0,
+      "program": 33,
+      "notes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Dora",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tsuzumi Pon",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tsuzumi Pu",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tsuzumi Ta",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tsuzumi Chon",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tsuzumi Tsu",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Shimetaiko Ten",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Shimetaiko Tsu",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Yagura Open",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Ohdaiko Rim",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Tambourine",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Drum 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Drum 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Drum 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Rim 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Rim 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Rim 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Rim 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Metal Rim 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Metal Rim 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Metal Rim 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Metal Rim 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Oriental Metal Rim 5",
+          "extension": 3,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "Small Latin Kit",
+      "extension": 3,
+      "msb": 126,
+      "lsb": 0,
+      "program": 34,
+      "notes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Latin Cymbal",
+          "elements": 1
+        },
+        {
+          "name": "Claves SL 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Claves SL 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Claves SL 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Claves SL 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Claves SL 5",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Muted Percussion SL 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Muted Percussion SL 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Muted Percussion SL 3",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Muted Percussion SL 4",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Pandiero",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Mute SL 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Mute SL 2",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Open SL",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Surdo Rim SL",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tamborim Mute",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Tamborim Open",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "TimbaleL Drum",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "TimbaleH Drum",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "TimbaleL Rim",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "TimbaleH Rim",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale Paila 1",
+          "extension": 3,
+          "elements": 1
+        },
+        {
+          "name": "Timbale Paila 2",
+          "extension": 3,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "name": "China Kit",
+      "extension": 5,
+      "msb": 126,
+      "lsb": 0,
+      "program": 35,
+      "notes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Bangu",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Dagu Mute",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Dagu Heavy",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Paigu High",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Paigu Middle",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Paigu Low",
+          "extension": 4,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Zhongcha Mute",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Zhongcha Open",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Zhongluo Mute",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Zhongluo Open",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Xiaoluo Open",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Xizocha Mute",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Ziaocha Open",
+          "extension": 4,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "name": "Bangzi",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Muyu High",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Muyu Mid-High",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Muyu Mid",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Muyu Mid-Low",
+          "extension": 4,
+          "elements": 1
+        },
+        {
+          "name": "Muyu Low",
+          "extension": 4,
+          "elements": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}

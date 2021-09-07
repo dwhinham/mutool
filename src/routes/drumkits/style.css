@@ -1,0 +1,41 @@
+.home {
+  padding: 56px 20px;
+  min-height: 100%;
+  width: 100%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 0.1rem;
+  font-family: "Ubuntu Condensed";
+  font-size: 11pt;
+}
+
+td {
+  white-space: nowrap;
+}
+
+.center {
+  text-align: center;
+}
+
+.note, .sameAsStdKit {
+	cursor: pointer;
+}
+
+.note:hover, .sameAsStdKit:hover {
+	background-color: lightgreen;
+  cursor: pointer;
+}
+
+.sameAsStdKit {
+  background-color: lightgray;
+}
+
+.noSound {
+  background-color: dimgray;
+  cursor: no-drop;
+}
