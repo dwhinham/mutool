@@ -101,98 +101,100 @@ const DrumKits: FunctionalComponent = () => {
 
     return (
         <div class={style.home}>
-            <h1 style={{marginTop: '10px', marginBottom: '10px'}}>Drum Kits</h1>
-            {/* <ul>
-                <li>Current drum kit: {msb}, {lsb}, {program}</li>
-            </ul>
-            <button type="button" onClick={allSoundOff}>All Sound Off</button> */}
+            <div style={{display: 'flex', alignItems: "center"}}>
+                <h1 style={{marginTop: '10px', marginBottom: '10px', flexGrow: "1"}}>Drum Kits</h1>
+                {/* <ul>
+                    <li>Current drum kit: {msb}, {lsb}, {program}</li>
+                </ul>
+                <button type="button" onClick={allSoundOff}>All Sound Off</button> */}
 
-            <div style={{marginTop: '10px', marginBottom: '10px'}}>
-                <div>
+                <div style={{padding: '5px'}}>
                     <input id="showElements" type="checkbox" checked={showElements} onChange={handleChange} />
                     <label for="showElements">Show number of elements</label>
-                </div>
-                <div>
-                    <input id="showStdKitNames" type="checkbox" checked={showStdKitNames} onChange={handleChange2} />
+                    <input style={{marginLeft: "2rem"}} id="showStdKitNames" type="checkbox" checked={showStdKitNames} onChange={handleChange2} />
                     <label for="showStdKitNames">Show standard kit names</label>
                 </div>
-            </div>
+                </div>
 
-            <table>
-                <colgroup>
-                    <col span={4} />
-                    { DrumKitData.drum_kits.map((drumKit: any) => <col span={ showElements ? 2 : 1 } className="drumKit" />) }
-                </colgroup>
+                <div class={style.container}>
+                <div class={style.scroll}>
+                <table>
+                    <colgroup>
+                        <col span={4} />
+                        { DrumKitData.drum_kits.map((drumKit: any) => <col span={ showElements ? 2 : 1 } className="drumKit" />) }
+                    </colgroup>
 
-                <thead>
-                    <tr>
-                        <th colSpan={4}>Bank Select MSB</th>
-                        { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.msb}</td>) }
-                    </tr>
-                    <tr>
-                        <th colSpan={4}>Bank Select LSB</th>
-                        { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.lsb}</td>) }
-                    </tr>
-                    <tr>
-                        <th colSpan={4}>Program #</th>
-                        { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.program}</td>) }
-                    </tr>
-
-                    <tr>
-                        <th>Note#</th>
-                        <th>Note</th>
-                        <th>Key Off</th>
-                        <th>Alternate Group</th>
-
-                        { DrumKitData.drum_kits.map((drumKit: any) => (
-                            <Fragment>
-                                <th>{drumKit.name}</th>
-                                { showElements && <th>E</th> }
-                            </Fragment>
-                        ))}
-                    </tr>
-                </thead>
-
-                <tbody>
-                    { DrumKitData.notes.map((note: any, noteIndex: number) => (
+                    <thead>
                         <tr>
-                            <td className={style.center}>{note.number}</td>
-                            <td className={style.center}>{note.name}</td>
-                            <td className={style.center}>{note.key_off ? "○" : ""}</td>
-                            <td className={style.center}>{note.alt_group}</td>
-
-                            { DrumKitData.drum_kits.map((drumKit: any, drumKitIndex: number) => {
-                                const note = drumKit.notes[noteIndex];
-
-                                if (_.isNull(note)) {
-                                    return (
-                                        <Fragment>
-                                            <td className={style.noSound}></td>
-                                            { showElements && <td className={style.noSound}></td> }
-                                        </Fragment>
-                                    )
-                                }
-
-                                if (_.isEmpty(note)) {
-                                    return (
-                                        <Fragment>
-                                            <td className={style.sameAsStdKit} drumKitIndex={drumKitIndex} noteIndex={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].name }</td>
-                                            { showElements && <td className={style.sameAsStdKit}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].elements }</td> }
-                                        </Fragment>
-                                    )
-                                }
-
-                                return (
-                                    <Fragment>
-                                        <td className={style.note} drumKitIndex={drumKitIndex} noteIndex={noteIndex} onMouseDown={noteOn}>{note.name}</td>
-                                        { showElements && <td>{note.elements}</td> }
-                                    </Fragment>
-                                )
-                            })}
+                            <th colSpan={4}>Bank Select MSB</th>
+                            { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.msb}</td>) }
                         </tr>
-                    )) }
-                </tbody>
-            </table>
+                        <tr>
+                            <th colSpan={4}>Bank Select LSB</th>
+                            { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.lsb}</td>) }
+                        </tr>
+                        <tr>
+                            <th colSpan={4}>Program #</th>
+                            { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.program}</td>) }
+                        </tr>
+
+                        <tr>
+                            <th>Note#</th>
+                            <th>Note</th>
+                            <th>Key Off</th>
+                            <th>Alternate Group</th>
+
+                            { DrumKitData.drum_kits.map((drumKit: any) => (
+                                <Fragment>
+                                    <th>{drumKit.name}</th>
+                                    { showElements && <th>E</th> }
+                                </Fragment>
+                            ))}
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        { DrumKitData.notes.map((note: any, noteIndex: number) => (
+                            <tr>
+                                <th className={style.center}>{note.number}</th>
+                                <th className={style.center}>{note.name}</th>
+                                <td className={style.center}>{note.key_off ? "○" : ""}</td>
+                                <td className={style.center}>{note.alt_group}</td>
+
+                                { DrumKitData.drum_kits.map((drumKit: any, drumKitIndex: number) => {
+                                    const note = drumKit.notes[noteIndex];
+
+                                    if (_.isNull(note)) {
+                                        return (
+                                            <Fragment>
+                                                <td className={style.noSound}></td>
+                                                { showElements && <td className={style.noSound}></td> }
+                                            </Fragment>
+                                        )
+                                    }
+
+                                    if (_.isEmpty(note)) {
+                                        return (
+                                            <Fragment>
+                                                <td className={style.sameAsStdKit} drumKitIndex={drumKitIndex} noteIndex={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].name }</td>
+                                                { showElements && <td className={style.sameAsStdKit}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].elements }</td> }
+                                            </Fragment>
+                                        )
+                                    }
+
+                                    return (
+                                        <Fragment>
+                                            <td className={style.note} drumKitIndex={drumKitIndex} noteIndex={noteIndex} onMouseDown={noteOn}>{note.name}</td>
+                                            { showElements && <td>{note.elements}</td> }
+                                        </Fragment>
+                                    )
+                                })}
+                            </tr>
+                        )) }
+                    </tbody>
+                </table>
+                </div>
+            </div>
         </div>
     );
 };
