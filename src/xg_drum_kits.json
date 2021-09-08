@@ -3597,6 +3597,7 @@
         {},
         {},
         {},
+        {},
         {
           "name": "Reverse Cymbal",
           "elements": 1
@@ -3632,7 +3633,6 @@
           "name": "Snare Analog",
           "elements": 1
         },
-        {},
         {},
         {
           "name": "Snare Analog 2",

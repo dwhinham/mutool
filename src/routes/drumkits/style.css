@@ -22,20 +22,31 @@ td {
   text-align: center;
 }
 
-.note, .sameAsStdKit {
-	cursor: pointer;
+.note,
+.sameAsStdKit {
+  cursor: pointer;
+  user-select: none;
 }
 
-.note:hover, .sameAsStdKit:hover {
-	background-color: lightgreen;
+.note:hover,
+.sameAsStdKit:hover,
+col:hover {
   cursor: pointer;
+  box-shadow: inset 0 0 2px #000000;
+}
+
+.note:active,
+.sameAsStdKit:active {
+  background-color: greenyellow;
+  box-shadow: inset 0 0 5px #000000;
 }
 
 .sameAsStdKit {
   background-color: lightgray;
+  color: dimgray;
 }
 
 .noSound {
   background-color: dimgray;
-  cursor: no-drop;
+  cursor: not-allowed;
 }
