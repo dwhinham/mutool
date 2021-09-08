@@ -137,9 +137,7 @@ const DrumKits: FunctionalComponent = () => {
                         <th colSpan={4}>Program #</th>
                         { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.program}</td>) }
                     </tr>
-                </thead>
 
-                <tbody>
                     <tr>
                         <th>Note#</th>
                         <th>Note</th>
@@ -153,7 +151,9 @@ const DrumKits: FunctionalComponent = () => {
                             </Fragment>
                         ))}
                     </tr>
+                </thead>
 
+                <tbody>
                     { DrumKitData.notes.map((note: any, noteIndex: number) => (
                         <tr>
                             <td className={style.center}>{note.number}</td>
