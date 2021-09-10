@@ -3,7 +3,7 @@ import { useState } from 'preact/hooks';
 
 import style from './style.css';
 import _ from 'lodash';
-import WebMidi, { InputEventNoteon, MidiControlChangeMessages, Output } from "webmidi";
+import WebMidi from "webmidi";
 
 import DrumKitData from '../../xg_drum_kits';
 
@@ -38,8 +38,8 @@ const DrumKits: FunctionalComponent = () => {
             return;
         }
 
-        const note = DrumKitData.notes[event.target.attributes["noteindex"].value];
-        const drumKit = DrumKitData.drum_kits[event.target.attributes["drumkitindex"].value];
+        const note = DrumKitData.notes[event.target.dataset.noteindex];
+        const drumKit = DrumKitData.drum_kits[event.target.dataset.drumkitindex];
         let needsProgramChange = false;
 
         if (drumKit.msb !== msb) {
@@ -77,7 +77,7 @@ const DrumKits: FunctionalComponent = () => {
             return;
         }
 
-        const note = DrumKitData.notes[event.target.attributes["noteindex"].value];
+        const note = DrumKitData.notes[event.target.dataset.noteindex];
         midiOut.stopNote(note.number, 10);
         document.onmouseup = undefined;
     }
@@ -121,21 +121,21 @@ const DrumKits: FunctionalComponent = () => {
                 <table>
                     <colgroup>
                         <col span={4} />
-                        { DrumKitData.drum_kits.map((drumKit: any) => <col span={ showElements ? 2 : 1 } className="drumKit" />) }
+                        { DrumKitData.drum_kits.map((drumKit: any) => <col key={drumKit.name} span={ showElements ? 2 : 1 } className="drumKit" />) }
                     </colgroup>
 
                     <thead>
                         <tr>
                             <th colSpan={4}>Bank Select MSB</th>
-                            { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.msb}</td>) }
+                            { DrumKitData.drum_kits.map((drumKit: any) => <td key={drumKit.name} className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.msb}</td>) }
                         </tr>
                         <tr>
                             <th colSpan={4}>Bank Select LSB</th>
-                            { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.lsb}</td>) }
+                            { DrumKitData.drum_kits.map((drumKit: any) => <td key={drumKit.name} className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.lsb}</td>) }
                         </tr>
                         <tr>
                             <th colSpan={4}>Program #</th>
-                            { DrumKitData.drum_kits.map((drumKit: any) => <td className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.program}</td>) }
+                            { DrumKitData.drum_kits.map((drumKit: any) => <td key={drumKit.name} className={style.center} colSpan={ showElements ? 2 : 1 }>{drumKit.program}</td>) }
                         </tr>
 
                         <tr>
@@ -145,7 +145,7 @@ const DrumKits: FunctionalComponent = () => {
                             <th>Alternate Group</th>
 
                             { DrumKitData.drum_kits.map((drumKit: any) => (
-                                <Fragment>
+                                <Fragment key={drumKit.name}>
                                     <th>{drumKit.name}</th>
                                     { showElements && <th>E</th> }
                                 </Fragment>
@@ -155,7 +155,7 @@ const DrumKits: FunctionalComponent = () => {
 
                     <tbody>
                         { DrumKitData.notes.map((note: any, noteIndex: number) => (
-                            <tr>
+                            <tr key={note.number}>
                                 <th className={style.center}>{note.number}</th>
                                 <th className={style.center}>{note.name}</th>
                                 <td className={style.center}>{note.key_off ? "○" : ""}</td>
@@ -166,25 +166,25 @@ const DrumKits: FunctionalComponent = () => {
 
                                     if (_.isNull(note)) {
                                         return (
-                                            <Fragment>
-                                                <td className={style.noSound}></td>
-                                                { showElements && <td className={style.noSound}></td> }
+                                            <Fragment key={drumKit.name}>
+                                                <td className={style.noSound} />
+                                                { showElements && <td className={style.noSound} /> }
                                             </Fragment>
                                         )
                                     }
 
                                     if (_.isEmpty(note)) {
                                         return (
-                                            <Fragment>
-                                                <td className={style.sameAsStdKit} drumKitIndex={drumKitIndex} noteIndex={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].name }</td>
+                                            <Fragment key={drumKit.name}>
+                                                <td className={style.sameAsStdKit} data-drumkitindex={drumKitIndex} data-noteindex={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].name }</td>
                                                 { showElements && <td className={style.sameAsStdKit}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].elements }</td> }
                                             </Fragment>
                                         )
                                     }
 
                                     return (
-                                        <Fragment>
-                                            <td className={style.note} drumKitIndex={drumKitIndex} noteIndex={noteIndex} onMouseDown={noteOn}>{note.name}</td>
+                                        <Fragment key={drumKit.name}>
+                                            <td className={style.note} data-drumkitindex={drumKitIndex} data-noteindex={noteIndex} onMouseDown={noteOn}>{note.name}</td>
                                             { showElements && <td>{note.elements}</td> }
                                         </Fragment>
                                     )
