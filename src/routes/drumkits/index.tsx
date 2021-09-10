@@ -3,12 +3,12 @@ import { useState } from 'preact/hooks';
 
 import style from './style.css';
 import _ from 'lodash';
-import WebMidi from "webmidi";
+import WebMidi, { Output } from "webmidi";
 
-import DrumKitData from '../../xg_drum_kits';
+import * as DrumKitData from '../../xg_drum_kits.json';
 
 const DrumKits: FunctionalComponent = () => {
-    const [midiOut, setMidiOut] = useState(undefined);
+    const [midiOut, setMidiOut] = useState<Output | undefined>(undefined);
     const [msb, setMSB] = useState(-1);
     const [lsb, setLSB] = useState(-1);
     const [program, setProgram] = useState(-1);
@@ -16,21 +16,23 @@ const DrumKits: FunctionalComponent = () => {
     const [showStdKitNames, setShowStdKitNames] = useState(false);
     const [showElements, setShowElements]  = useState(false);
 
-    WebMidi.enable((err) => {
-        if (err) {
-            console.warn(err);
-        } else {
-            console.log("WebMIDI enabled");
-            console.log(WebMidi.outputs);
-
-            const output = WebMidi.getOutputByName("MU2000 MIDI 1");
-            if (output !== false) {
-                setMidiOut(output);
+    if (typeof window !== "undefined") {
+        WebMidi.enable((err) => {
+            if (err) {
+                console.warn(err);
             } else {
-                console.log("Couldn't find MU2000!");
+                console.log("WebMIDI enabled");
+                console.log(WebMidi.outputs);
+
+                const output = WebMidi.getOutputByName("MU2000 MIDI 1");
+                if (output !== false) {
+                    setMidiOut(output);
+                } else {
+                    console.log("Couldn't find MU2000!");
+                }
             }
-        }
-    }, true);
+        }, true);
+    }
 
     const noteOn = (event: any) => {
         if (!midiOut) {
@@ -79,7 +81,7 @@ const DrumKits: FunctionalComponent = () => {
 
         const note = DrumKitData.notes[event.target.dataset.noteindex];
         midiOut.stopNote(note.number, 10);
-        document.onmouseup = undefined;
+        document.onmouseup = null;
     }
 
     const allSoundOff = () => {
@@ -176,8 +178,8 @@ const DrumKits: FunctionalComponent = () => {
                                     if (_.isEmpty(note)) {
                                         return (
                                             <Fragment key={drumKit.name}>
-                                                <td className={style.sameAsStdKit} data-drumkitindex={drumKitIndex} data-noteindex={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].name }</td>
-                                                { showElements && <td className={style.sameAsStdKit}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex].elements }</td> }
+                                                <td className={style.sameAsStdKit} data-drumkitindex={drumKitIndex} data-noteindex={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.name }</td>
+                                                { showElements && <td className={style.sameAsStdKit}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.elements }</td> }
                                             </Fragment>
                                         )
                                     }
