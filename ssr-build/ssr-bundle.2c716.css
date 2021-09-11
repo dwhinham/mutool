@@ -82,7 +82,7 @@ th, td {
 }
 
 td {
-  white-space:nowrap;
+  white-space: nowrap;
 }
 
 tbody tr > :nth-child(2) {
@@ -93,6 +93,16 @@ tbody tr > :nth-child(2) {
 
 .center__21Y0r {
   text-align: center;
+}
+
+.floatLeft__2jf4e {
+  float: left;
+  text-align: left;
+}
+
+.floatRight__2b4HF {
+  float: right;
+  text-align: right;
 }
 
 .note__VQTrQ,
@@ -250,4 +260,4 @@ col:hover {
 }
 
 
-/*# sourceMappingURL=ssr-bundle.275c3.css.map*/
+/*# sourceMappingURL=ssr-bundle.2c716.css.map*/
