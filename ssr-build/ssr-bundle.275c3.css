@@ -1,0 +1,253 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background: #FAFAFA;
+	font-family: 'Roboto', arial, sans-serif;
+	font-weight: 400;
+	color: #444;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#app {
+	height: 100%;
+}
+
+.home__ayv91 {
+  padding: 56px 20px 20px 20px;
+  height: 100vh;
+}
+
+.container__3Y66w {
+  -ms-flex-direction: column;
+      flex-direction: column;
+  display: -ms-flexbox;
+  display: flex;
+  overflow: hidden;
+  max-height: calc(100% - 56px);
+}
+
+.scroll__2dt-n {
+  overflow: scroll;
+  -ms-flex-positive: 1;
+      flex-grow: 1;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  font-family: "Ubuntu Condensed";
+  font-size: 11pt;
+}
+
+td, th, tr {
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+table {
+  border: 1px solid black;
+}
+
+thead tr > th {
+  position: sticky;
+  z-index: 2;
+  top: 0;
+}
+
+th, thead tr > td {
+  background: #673ab7;
+  color: white;
+}
+
+tbody tr > th {
+  background: #482a7c;
+  color: white;
+}
+
+thead tr:last-of-type > :nth-child(2) {
+  z-index: 3;
+  left: 0;
+  top: 0;
+}
+
+th, td {
+  padding: 0.1rem;
+}
+
+td {
+  white-space:nowrap;
+}
+
+tbody tr > :nth-child(2) {
+  position: sticky;
+  z-index: 2;
+  left: 0;
+}
+
+.center__21Y0r {
+  text-align: center;
+}
+
+.note__VQTrQ,
+.sameAsStdKit__3VYAU {
+  cursor: pointer;
+  -webkit-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.note__VQTrQ:hover,
+.sameAsStdKit__3VYAU:hover,
+col:hover {
+  cursor: pointer;
+  box-shadow: inset 0 0 2px #000000;
+}
+
+.note__VQTrQ:active,
+.sameAsStdKit__3VYAU:active {
+  background-color: #673ab7;
+  color: white;
+  box-shadow: inset 0 0 5px #000000;
+}
+
+.sameAsStdKit__3VYAU {
+  background-color: lightgray;
+  color: dimgray;
+}
+
+.noSound__2Rpw_ {
+  background-color: dimgray;
+  cursor: not-allowed;
+}
+
+.profile__11nNM {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.notfound__25Mra {
+    padding: 0 5%;
+    margin: 100px 0;
+}
+.header__3ax1h {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 56px;
+	padding: 0;
+	background: #673AB7;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+	z-index: 50;
+}
+
+.header__3ax1h h1 {
+	float: left;
+	margin: 0;
+	padding: 0 15px;
+	font-size: 24px;
+	line-height: 56px;
+	font-weight: 400;
+	color: #FFF;
+	/* filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 1)); */
+}
+
+.header__3ax1h nav {
+	float: right;
+	font-size: 100%;
+}
+
+.header__3ax1h nav a {
+	display: inline-block;
+	height: 56px;
+	line-height: 56px;
+	padding: 0 15px;
+	min-width: 50px;
+	text-align: center;
+	background: rgba(255,255,255,0);
+	text-decoration: none;
+	color: #FFF;
+	will-change: background-color;
+}
+
+.header__3ax1h nav a:hover,
+.header__3ax1h nav a:active {
+	background: rgba(0,0,0,0.2);
+}
+
+.header__3ax1h nav a.active__2XB2z {
+	background: rgba(0,0,0,0.4);
+}
+
+.xgLogo__3bLIz {
+	height: 70%;
+	margin: 0.5rem 0 0.5rem 0.5rem;
+	float: left;
+	/* filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 1)); */
+}
+
+/* ubuntu-condensed-cyrillic-ext-400-normal*/
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/a9664b3dd42db4a2d86506d58e0a7164.woff2) format('woff2'), url(/fde9cf5a880003f3aa54ef3182765546.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* ubuntu-condensed-cyrillic-400-normal*/
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/7f425d7ba3aebcbf1d5c94f310d9b810.woff2) format('woff2'), url(/fde9cf5a880003f3aa54ef3182765546.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* ubuntu-condensed-greek-ext-400-normal*/
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/4476b50085dc66381fc3607be1b9d172.woff2) format('woff2'), url(/fde9cf5a880003f3aa54ef3182765546.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* ubuntu-condensed-greek-400-normal*/
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/7e5062571cccdc38bf0dd750d9a72cea.woff2) format('woff2'), url(/fde9cf5a880003f3aa54ef3182765546.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* ubuntu-condensed-latin-ext-400-normal*/
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/03c22fd75b4a36edf73cf10867da5532.woff2) format('woff2'), url(/fde9cf5a880003f3aa54ef3182765546.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* ubuntu-condensed-latin-400-normal*/
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/8b39a250aa626f41772544cd24468912.woff2) format('woff2'), url(/fde9cf5a880003f3aa54ef3182765546.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/*# sourceMappingURL=ssr-bundle.275c3.css.map*/
