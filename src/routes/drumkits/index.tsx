@@ -40,8 +40,8 @@ const DrumKits: FunctionalComponent = () => {
             return;
         }
 
-        const note = DrumKitData.notes[event.target.dataset.noteindex];
-        const drumKit = DrumKitData.drum_kits[event.target.dataset.drumkitindex];
+        const note = DrumKitData.notes[event.target.dataset.note];
+        const drumKit = DrumKitData.drum_kits[event.target.dataset.kit];
         let needsProgramChange = false;
 
         if (drumKit.msb !== msb) {
@@ -79,7 +79,7 @@ const DrumKits: FunctionalComponent = () => {
             return;
         }
 
-        const note = DrumKitData.notes[event.target.dataset.noteindex];
+        const note = DrumKitData.notes[event.target.dataset.note];
         midiOut.stopNote(note.number, 10);
         document.onmouseup = null;
     }
@@ -160,7 +160,7 @@ const DrumKits: FunctionalComponent = () => {
                             <tr key={note.number}>
                                 <th className={style.center}>{note.number}</th>
                                 <th className={style.center}>{note.name}</th>
-                                <td className={style.center}>{note.key_off ? "○" : ""}</td>
+                                { note.key_off ? <td className={style.center}>○</td> : <td /> }
                                 <td className={style.center}>{note.alt_group}</td>
 
                                 { DrumKitData.drum_kits.map((drumKit: any, drumKitIndex: number) => {
@@ -178,7 +178,7 @@ const DrumKits: FunctionalComponent = () => {
                                     if (_.isEmpty(note)) {
                                         return (
                                             <Fragment key={drumKit.name}>
-                                                <td className={style.sameAsStdKit} data-drumkitindex={drumKitIndex} data-noteindex={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.name }</td>
+                                                <td className={style.sameAsStdKit} data-kit={drumKitIndex} data-note={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.name }</td>
                                                 { showElements && <td className={style.sameAsStdKit}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.elements }</td> }
                                             </Fragment>
                                         )
@@ -186,7 +186,7 @@ const DrumKits: FunctionalComponent = () => {
 
                                     return (
                                         <Fragment key={drumKit.name}>
-                                            <td className={style.note} data-drumkitindex={drumKitIndex} data-noteindex={noteIndex} onMouseDown={noteOn}>{note.name}</td>
+                                            <td className={style.note} data-kit={drumKitIndex} data-note={noteIndex} onMouseDown={noteOn}>{note.name}</td>
                                             { showElements && <td>{note.elements}</td> }
                                         </Fragment>
                                     )
