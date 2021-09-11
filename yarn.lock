@@ -995,6 +995,16 @@
     lodash.isundefined "^3.0.1"
     lodash.uniq "^4.5.0"
 
+"@fontsource/roboto@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/roboto/-/roboto-4.5.0.tgz#d6f925668ba6af46707f1040c43aff498ba204bb"
+  integrity sha512-ja4XYw/9kNRFM5Ndk9vwzHWsdBMXczyBazFkTXJQ74QQBnT0BbSsHn0pF60AU0Iznig1Wt9x3rADfG8LANvMpw==
+
+"@fontsource/ubuntu-condensed@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/ubuntu-condensed/-/ubuntu-condensed-4.5.0.tgz#ed9dadc8d4532ebb22e2c25839388a1f4dc00bf9"
+  integrity sha512-tO9h12RbFfYQxJ0SHnec3yMBw2hW04KypAUnEE+e2mjosq1G3snmgm5jMhUqAz//fsFTUg/5i0tKEFKJbEQ/5Q==
+
 "@gar/promisify@^1.0.1":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.2.tgz#30aa825f11d438671d585bd44e7fd564535fc210"

@@ -18,7 +18,7 @@
 table {
   border-collapse: separate;
   border-spacing: 0;
-  font-family: "Ubuntu Condensed";
+  font-family: "Ubuntu Condensed", arial, sans-serif;
   font-size: 11pt;
 }
 

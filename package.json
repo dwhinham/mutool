@@ -24,6 +24,8 @@
     ]
   },
   "dependencies": {
+    "@fontsource/roboto": "^4.5.0",
+    "@fontsource/ubuntu-condensed": "^4.5.0",
     "lodash": "^4.17.21",
     "preact": "^10.3.1",
     "preact-render-to-string": "^5.1.4",
