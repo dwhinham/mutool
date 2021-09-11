@@ -7,6 +7,19 @@ import WebMidi, { Output } from "webmidi";
 
 import * as DrumKitData from '../../xg_drum_kits.json';
 
+interface Note {
+    name: string;
+    octave: number;
+}
+
+const NOTE_NAMES = [ "C", "C♯", "D", "D♯", "E", "F", "F♯", "G", "G♯", "A", "A♯", "B" ];
+
+const noteNumberToNameAndOctave = (noteNumber: number): Note => {
+    const name = NOTE_NAMES[noteNumber % 12];
+    const octave = ~~(noteNumber / 12) - 2;
+    return { name, octave };
+}
+
 const DrumKits: FunctionalComponent = () => {
     const [midiOut, setMidiOut] = useState<Output | undefined>(undefined);
     const [msb, setMSB] = useState(-1);
@@ -156,43 +169,50 @@ const DrumKits: FunctionalComponent = () => {
                     </thead>
 
                     <tbody>
-                        { DrumKitData.notes.map((note: any, noteIndex: number) => (
-                            <tr key={note.number}>
-                                <th className={style.center}>{note.number}</th>
-                                <th className={style.center}>{note.name}</th>
-                                { note.key_off ? <td className={style.center}>○</td> : <td /> }
-                                <td className={style.center}>{note.alt_group}</td>
+                        { DrumKitData.notes.map((drumNote: any, noteIndex: number) => {
+                            const note = noteNumberToNameAndOctave(drumNote.number);
 
-                                { DrumKitData.drum_kits.map((drumKit: any, drumKitIndex: number) => {
-                                    const note = drumKit.notes[noteIndex];
+                            return (
+                                <tr key={drumNote.number}>
+                                    <th className={style.center}>{drumNote.number}</th>
+                                    <th>
+                                        <div className={style.floatLeft}>{note.name}</div>
+                                        <div className={style.floatRight}>{note.octave}</div>
+                                    </th>
+                                    { drumNote.key_off ? <td className={style.center}>○</td> : <td /> }
+                                    <td className={style.center}>{drumNote.alt_group}</td>
 
-                                    if (_.isNull(note)) {
+                                    { DrumKitData.drum_kits.map((drumKit: any, drumKitIndex: number) => {
+                                        const note = drumKit.notes[noteIndex];
+
+                                        if (_.isNull(note)) {
+                                            return (
+                                                <Fragment key={drumKit.name}>
+                                                    <td className={style.noSound} />
+                                                    { showElements && <td className={style.noSound} /> }
+                                                </Fragment>
+                                            )
+                                        }
+
+                                        if (_.isEmpty(note)) {
+                                            return (
+                                                <Fragment key={drumKit.name}>
+                                                    <td className={style.sameAsStdKit} data-kit={drumKitIndex} data-note={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.name }</td>
+                                                    { showElements && <td className={style.sameAsStdKit}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.elements }</td> }
+                                                </Fragment>
+                                            )
+                                        }
+
                                         return (
                                             <Fragment key={drumKit.name}>
-                                                <td className={style.noSound} />
-                                                { showElements && <td className={style.noSound} /> }
+                                                <td className={style.note} data-kit={drumKitIndex} data-note={noteIndex} onMouseDown={noteOn}>{note.name}</td>
+                                                { showElements && <td>{note.elements}</td> }
                                             </Fragment>
                                         )
-                                    }
-
-                                    if (_.isEmpty(note)) {
-                                        return (
-                                            <Fragment key={drumKit.name}>
-                                                <td className={style.sameAsStdKit} data-kit={drumKitIndex} data-note={noteIndex} onMouseDown={noteOn}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.name }</td>
-                                                { showElements && <td className={style.sameAsStdKit}>{ showStdKitNames && DrumKitData.drum_kits[0].notes[noteIndex]?.elements }</td> }
-                                            </Fragment>
-                                        )
-                                    }
-
-                                    return (
-                                        <Fragment key={drumKit.name}>
-                                            <td className={style.note} data-kit={drumKitIndex} data-note={noteIndex} onMouseDown={noteOn}>{note.name}</td>
-                                            { showElements && <td>{note.elements}</td> }
-                                        </Fragment>
-                                    )
-                                })}
-                            </tr>
-                        )) }
+                                    })}
+                                </tr>
+                            )
+                        }) }
                     </tbody>
                 </table>
                 </div>

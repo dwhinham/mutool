@@ -49,9 +49,9 @@ fs.createReadStream("MU2000 List Book - XG Drum Map.csv")
 
     notes = csvData.slice(4).map((data, _) => ({
             number: parseInt(data[0]),
-            name: data[1],
+            // name: data[1],
             key_off: !!data[2],
-            alt_group: parseInt(data[3]) || undefined
+            alt_group: parseInt(data[3]) || null
         }));
 
     const kits = transposedData.slice(4);
@@ -90,7 +90,8 @@ fs.createReadStream("MU2000 List Book - XG Drum Map.csv")
                     return {};
                 }
 
-                // Undefined - no sound
+                // Null - no sound
+                return null;
             })
         }
 

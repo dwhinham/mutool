@@ -2,407 +2,398 @@
   "notes": [
     {
       "number": 13,
-      "name": "C#-1",
       "key_off": false,
       "alt_group": 3
     },
     {
       "number": 14,
-      "name": "D-1",
       "key_off": false,
       "alt_group": 3
     },
     {
       "number": 15,
-      "name": "D#-1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 16,
-      "name": "E-1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 17,
-      "name": "F-1",
       "key_off": false,
       "alt_group": 4
     },
     {
       "number": 18,
-      "name": "F#-1",
       "key_off": false,
       "alt_group": 4
     },
     {
       "number": 19,
-      "name": "G-1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 20,
-      "name": "G#-1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 21,
-      "name": "A-1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 22,
-      "name": "A#-1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 23,
-      "name": "B-1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 24,
-      "name": "C0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 25,
-      "name": "C#0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 26,
-      "name": "D0",
-      "key_off": true
+      "key_off": true,
+      "alt_group": null
     },
     {
       "number": 27,
-      "name": "D#0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 28,
-      "name": "E0",
-      "key_off": true
+      "key_off": true,
+      "alt_group": null
     },
     {
       "number": 29,
-      "name": "F0",
-      "key_off": true
+      "key_off": true,
+      "alt_group": null
     },
     {
       "number": 30,
-      "name": "F#0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 31,
-      "name": "G0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 32,
-      "name": "G#0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 33,
-      "name": "A0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 34,
-      "name": "A#0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 35,
-      "name": "B0",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 36,
-      "name": "C1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 37,
-      "name": "C#1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 38,
-      "name": "D1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 39,
-      "name": "D#1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 40,
-      "name": "E1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 41,
-      "name": "F1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 42,
-      "name": "F#1",
       "key_off": false,
       "alt_group": 1
     },
     {
       "number": 43,
-      "name": "G1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 44,
-      "name": "G#1",
       "key_off": false,
       "alt_group": 1
     },
     {
       "number": 45,
-      "name": "A1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 46,
-      "name": "A#1",
       "key_off": false,
       "alt_group": 1
     },
     {
       "number": 47,
-      "name": "B1",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 48,
-      "name": "C2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 49,
-      "name": "C#2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 50,
-      "name": "D2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 51,
-      "name": "D#2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 52,
-      "name": "E2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 53,
-      "name": "F2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 54,
-      "name": "F#2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 55,
-      "name": "G2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 56,
-      "name": "G#2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 57,
-      "name": "A2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 58,
-      "name": "A#2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 59,
-      "name": "B2",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 60,
-      "name": "C3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 61,
-      "name": "C#3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 62,
-      "name": "D3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 63,
-      "name": "D#3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 64,
-      "name": "E3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 65,
-      "name": "F3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 66,
-      "name": "F#3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 67,
-      "name": "G3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 68,
-      "name": "G#3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 69,
-      "name": "A3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 70,
-      "name": "A#3",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 71,
-      "name": "B3",
-      "key_off": true
+      "key_off": true,
+      "alt_group": null
     },
     {
       "number": 72,
-      "name": "C4",
-      "key_off": true
+      "key_off": true,
+      "alt_group": null
     },
     {
       "number": 73,
-      "name": "C#4",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 74,
-      "name": "D4",
-      "key_off": true
+      "key_off": true,
+      "alt_group": null
     },
     {
       "number": 75,
-      "name": "D#4",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 76,
-      "name": "E4",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 77,
-      "name": "F4",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 78,
-      "name": "F#4",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 79,
-      "name": "G4",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 80,
-      "name": "G#4",
       "key_off": false,
       "alt_group": 2
     },
     {
       "number": 81,
-      "name": "A4",
       "key_off": false,
       "alt_group": 2
     },
     {
       "number": 82,
-      "name": "A#4",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 83,
-      "name": "B4",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 84,
-      "name": "C5",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 85,
-      "name": "C#5",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 86,
-      "name": "D5",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 87,
-      "name": "D#5",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 88,
-      "name": "E5",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 89,
-      "name": "F5",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 90,
-      "name": "F#5",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     },
     {
       "number": 91,
-      "name": "G5",
-      "key_off": false
+      "key_off": false,
+      "alt_group": null
     }
   ],
   "drum_kits": [
