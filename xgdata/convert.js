@@ -50,8 +50,8 @@ fs.createReadStream("MU2000 List Book - XG Drum Map.csv")
     notes = csvData.slice(4).map((data, _) => ({
             number: parseInt(data[0]),
             // name: data[1],
-            key_off: !!data[2],
-            alt_group: parseInt(data[3]) || null
+            keyOff: !!data[2],
+            altGroup: parseInt(data[3]) || null
         }));
 
     const kits = transposedData.slice(4);
@@ -97,6 +97,6 @@ fs.createReadStream("MU2000 List Book - XG Drum Map.csv")
 
         drumKits.push(drumKit);
 
-        fs.writeFileSync('../src/xg_drum_kits.json', JSON.stringify({ notes, drum_kits: drumKits }, null, 2));
+        fs.writeFileSync('../src/xg_drum_kits.json', JSON.stringify({ notes, drumKits }, null, 2));
     }
   });

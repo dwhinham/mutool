@@ -2,401 +2,401 @@
   "notes": [
     {
       "number": 13,
-      "key_off": false,
-      "alt_group": 3
+      "keyOff": false,
+      "altGroup": 3
     },
     {
       "number": 14,
-      "key_off": false,
-      "alt_group": 3
+      "keyOff": false,
+      "altGroup": 3
     },
     {
       "number": 15,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 16,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 17,
-      "key_off": false,
-      "alt_group": 4
+      "keyOff": false,
+      "altGroup": 4
     },
     {
       "number": 18,
-      "key_off": false,
-      "alt_group": 4
+      "keyOff": false,
+      "altGroup": 4
     },
     {
       "number": 19,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 20,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 21,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 22,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 23,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 24,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 25,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 26,
-      "key_off": true,
-      "alt_group": null
+      "keyOff": true,
+      "altGroup": null
     },
     {
       "number": 27,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 28,
-      "key_off": true,
-      "alt_group": null
+      "keyOff": true,
+      "altGroup": null
     },
     {
       "number": 29,
-      "key_off": true,
-      "alt_group": null
+      "keyOff": true,
+      "altGroup": null
     },
     {
       "number": 30,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 31,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 32,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 33,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 34,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 35,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 36,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 37,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 38,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 39,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 40,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 41,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 42,
-      "key_off": false,
-      "alt_group": 1
+      "keyOff": false,
+      "altGroup": 1
     },
     {
       "number": 43,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 44,
-      "key_off": false,
-      "alt_group": 1
+      "keyOff": false,
+      "altGroup": 1
     },
     {
       "number": 45,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 46,
-      "key_off": false,
-      "alt_group": 1
+      "keyOff": false,
+      "altGroup": 1
     },
     {
       "number": 47,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 48,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 49,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 50,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 51,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 52,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 53,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 54,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 55,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 56,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 57,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 58,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 59,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 60,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 61,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 62,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 63,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 64,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 65,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 66,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 67,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 68,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 69,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 70,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 71,
-      "key_off": true,
-      "alt_group": null
+      "keyOff": true,
+      "altGroup": null
     },
     {
       "number": 72,
-      "key_off": true,
-      "alt_group": null
+      "keyOff": true,
+      "altGroup": null
     },
     {
       "number": 73,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 74,
-      "key_off": true,
-      "alt_group": null
+      "keyOff": true,
+      "altGroup": null
     },
     {
       "number": 75,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 76,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 77,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 78,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 79,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 80,
-      "key_off": false,
-      "alt_group": 2
+      "keyOff": false,
+      "altGroup": 2
     },
     {
       "number": 81,
-      "key_off": false,
-      "alt_group": 2
+      "keyOff": false,
+      "altGroup": 2
     },
     {
       "number": 82,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 83,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 84,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 85,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 86,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 87,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 88,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 89,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 90,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     },
     {
       "number": 91,
-      "key_off": false,
-      "alt_group": null
+      "keyOff": false,
+      "altGroup": null
     }
   ],
-  "drum_kits": [
+  "drumKits": [
     {
       "name": "StandKit MU Basic",
       "msb": 127,
